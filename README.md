@@ -1,2 +1,2 @@
 # Kellyson
-👋코스하-!🖐'코딩스테이지 하이'라는뜻😆 우리 벗들💚 coding 같이 배워요😚 숨참고 코딩스테이지로 dive✌️💥❤
+<img src="https://user-images.githubusercontent.com/93020734/224773474-8803e061-9013-42eb-ae76-c595e1a7263a.png" width="600" height="300" />
